@@ -28,3 +28,10 @@ describe('getElementsByClassName', function() {
   });
 
 });
+
+// $('body').addClass('targetClassName');
+// htmlStrings.forEach(function(htmlString) {
+//   var $rootElement = $(htmlString);
+//   $('body').append($rootElement);
+//   console.log($('body'))
+// }
